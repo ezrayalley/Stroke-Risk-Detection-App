@@ -9,6 +9,8 @@ The **Stroke Risk Detection App** is a **machine learning-based web application*
 
 Users can input their details, and the model analyzes the risk using **trained ML algorithms**.  
 
+Explore the Live App by clicking on this link: [https://stroke-risk-detector.streamlit.app/]
+
 ## 🌟 Features  
 ✅ **Real-time Stroke Risk Prediction**  
 ✅ **User-friendly Interface** with an Interactive UI  
@@ -50,7 +52,9 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Contributing  
 Contributions are welcome!
-For full access to project files and codes, see contact details
+
+NB: Some files and codes have been hidden
+For full access to project files and codes, kindly see the contact details and reach out.
 
 ## 💌 Contact  
 📧 Email: ezra.yalley@gmail.com  
